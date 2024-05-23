@@ -1,0 +1,158 @@
+
+As funções em JavaScript são como receitas de bolo. Você diz ao computador passo a passo o que fazer. Por exemplo, se você quiser somar dois números, você cria uma função que faz essa soma sempre que você pedir. Elas ajudam a organizar e reutilizar o código, como ter um truque na manga!
+
+
+
+
+
+
+
+Algumas funções são super populares em JavaScript. Como a função alert(), que mostra uma mensagem na tela. Tem também a console.log(), que coloca mensagens no console (a área do desenvolvedor). E claro, as funções que você mesmo cria para fazer coisas legais, como calcular ou mostrar informações.
+
+
+EXEMPLO:
+
+
+A função alert() mostra uma mensagem na tela em uma janela pop-up. É útil para dar avisos rápidos ao usuário.
+
+javascript
+
+alert("Olá, mundo!");
+
+EXEMPLO:
+
+A função console.log() coloca mensagens no console (a área do desenvolvedor no navegador). É muito usada para debug, ou seja, para ver o que está acontecendo com o seu código.
+
+javascript
+
+console.log("Esta é uma mensagem no console.");
+EXEMPLO:
+
+
+A função setTimeout() executa uma função depois de um certo tempo (em milissegundos). É ótima para criar atrasos.
+
+javascript
+
+setTimeout(() => { console.log("Isso aparece depois de 2 segundos!"); }, 2000);
+
+
+EXEMPLO:
+
+
+A função addEventListener() adiciona um evento a um elemento da página, como um clique em um botão. É essencial para interatividade.
+
+javascript
+
+Copiar código
+document.getElementById("meuBotao").addEventListener("click", () => { alert("Botão clicado!"); });
+
+
+
+
+
+
+Existem algumas maneiras de escrever funções em JavaScript. A mais comum é a função tradicional:
+
+
+
+EXEMPLO:
+
+
+javascript
+
+function minhaFuncao() {
+ // código aqui
+}
+
+
+
+
+Também tem a função de seta, que é mais moderna:
+
+
+
+EXEMPLO:
+
+
+
+
+javascript
+
+const minhaFuncao = () => {
+ // código aqui
+}
+
+
+
+
+
+
+Os parâmetros são como os ingredientes da receita. Quando você cria uma função, pode dizer que ela precisa de alguns ingredientes (parâmetros). Por exemplo, uma função que soma dois números pode ter dois parâmetros:
+
+
+
+EXEMPLO:
+
+
+javascript
+
+function soma(a, b) {
+ return a + b;
+}
+Aqui, a e b são os parâmetros.
+
+
+
+
+
+Existem vários tipos de funções. Tem as funções normais, que já vimos. Tem também as funções anônimas, que não têm nome e são usadas imediatamente. E tem as funções assíncronas, que ajudam a lidar com coisas que demoram, como buscar dados na internet sem travar a página.
+
+
+
+
+
+Aqui está um exemplo simples de uma função tradicional:
+
+
+
+EXEMPLO:
+
+
+javascript
+
+function digaOla(nome) {
+ console.log("Olá, " + nome + "!");
+}
+digaOla("Mundo");
+
+
+
+
+E aqui um exemplo de função de seta:
+
+
+
+EXEMPLO:
+
+
+javascript
+
+const digaOla = (nome) => {
+ console.log("Olá, " + nome + "!");
+}
+digaOla("Mundo");
+
+
+
+
+Eai gostou do conteudo ? Então já me segue nas outras redes para não perder os próximos. Linkedin -- GitHub
+
+
+
+Ilustrações de capa: Lexica.art e MidJourney.
+
+Conteúdo gerado por: ChatGTP e revisado por alguém 100% humano.
+
+
+
+#JavaScript #Front-End #Funções

@@ -1,0 +1,197 @@
+Prompts de Criação do Projeto: 
+
+crie 10 headlines para nomes de artigos sobre o assunto JavaScript - funções
+ChatGPT
+"Desvendando o Poder das Funções em JavaScript: Um Guia Abrangente"
+"Dominando o Mundo das Funções: JavaScript como um Mestre"
+"Explorando os Recantos das Funções em JavaScript: Dicas e Truques"
+"Aprofundando-se na Magia das Funções em JavaScript: Conceitos Avançados"
+"Construindo Aplicações Robustas com Funções em JavaScript: Estratégias Essenciais"
+"Desmistificando o Papel das Funções em JavaScript: Do Básico ao Avançado"
+"Potencializando Seu Código com Funções em JavaScript: Estratégias Eficientes"
+"O Coração da Programação em JavaScript: Explorando Funções"
+"Explorando a Versatilidade das Funções em JavaScript: Aplicações Práticas"
+"Mergulhando Profundamente no Universo das Funções em JavaScript: Uma Jornada de Descoberta"
+
+3/3
+
+Comporte-se como um escritor de artigos tech front-end e escreva o Artigo atendendo as regras abaixo: 
+
+{REGRAS}
+
+>  No máximo 5 linhas por blocos de explicação.
+> Me explique de maneira informal, como se eu fosse uma criança de 10 anos.
+> Os blocos que serão criados estão abaixo:
+
+- Oque são e para que servem as funções em JavaScript.
+- Quais são as funções mais usadas dentro do JavaScript.
+- Quais os jeitos de se escrever funções em JavaSript.
+- Quais são os parâmetros de uma função em JavaScript
+- Quais são os diferentes tipos de funções e suas funcionalidades em JavaScript.
+- Coloque exemplos de código
+- Faça um call to action para as minhas redes sociais 
+- Coloque no final 3 hashtagas que façam sentido.
+
+2/2
+
+ChatGPT
+O que são e para que servem as funções em JavaScript
+As funções em JavaScript são como receitas de bolo. Você diz ao computador passo a passo o que fazer. Por exemplo, se você quiser somar dois números, você cria uma função que faz essa soma sempre que você pedir. Elas ajudam a organizar e reutilizar o código, como ter um truque na manga!
+
+Quais são as funções mais usadas dentro do JavaScript
+Algumas funções são super populares em JavaScript. Como a função alert(), que mostra uma mensagem na tela. Tem também a console.log(), que coloca mensagens no console (a área do desenvolvedor). E claro, as funções que você mesmo cria para fazer coisas legais, como calcular ou mostrar informações.
+
+Quais os jeitos de se escrever funções em JavaScript
+Existem algumas maneiras de escrever funções em JavaScript. A mais comum é a função tradicional:
+
+javascript
+Copiar código
+function minhaFuncao() {
+  // código aqui
+}
+Também tem a função de seta, que é mais moderna:
+
+javascript
+Copiar código
+const minhaFuncao = () => {
+  // código aqui
+}
+Quais são os parâmetros de uma função em JavaScript
+Os parâmetros são como os ingredientes da receita. Quando você cria uma função, pode dizer que ela precisa de alguns ingredientes (parâmetros). Por exemplo, uma função que soma dois números pode ter dois parâmetros:
+
+javascript
+Copiar código
+function soma(a, b) {
+  return a + b;
+}
+Aqui, a e b são os parâmetros.
+
+Quais são os diferentes tipos de funções e suas funcionalidades em JavaScript
+Existem vários tipos de funções. Tem as funções normais, que já vimos. Tem também as funções anônimas, que não têm nome e são usadas imediatamente. E tem as funções assíncronas, que ajudam a lidar com coisas que demoram, como buscar dados na internet sem travar a página.
+
+Exemplos de código
+Aqui está um exemplo simples de uma função tradicional:
+
+javascript
+Copiar código
+function digaOla(nome) {
+  console.log("Olá, " + nome + "!");
+}
+digaOla("Mundo");
+E aqui um exemplo de função de seta:
+
+javascript
+Copiar código
+const digaOla = (nome) => {
+  console.log("Olá, " + nome + "!");
+}
+digaOla("Mundo");
+Call to action para minhas redes sociais
+Gostou das dicas? Siga-me nas redes sociais para mais truques e dicas de JavaScript e programação! Estamos sempre aprendendo juntos.
+
+Hashtags
+#JavaScript #ProgramaçãoParaTodos #FunçõesJS
+
+crie sub titulos e separe por blocos cada parte do artigo
+ChatGPT
+O que são e para que servem as funções em JavaScript
+As funções em JavaScript são como receitas de bolo. Você diz ao computador passo a passo o que fazer. Por exemplo, se você quiser somar dois números, você cria uma função que faz essa soma sempre que você pedir. Elas ajudam a organizar e reutilizar o código, como ter um truque na manga!
+
+Quais são as funções mais usadas dentro do JavaScript
+Algumas funções são super populares em JavaScript. Como a função alert(), que mostra uma mensagem na tela. Tem também a console.log(), que coloca mensagens no console (a área do desenvolvedor). E claro, as funções que você mesmo cria para fazer coisas legais, como calcular ou mostrar informações.
+
+Quais os jeitos de se escrever funções em JavaScript
+Existem algumas maneiras de escrever funções em JavaScript. A mais comum é a função tradicional:
+
+javascript
+Copiar código
+function minhaFuncao() {
+  // código aqui
+}
+Também tem a função de seta, que é mais moderna:
+
+javascript
+Copiar código
+const minhaFuncao = () => {
+  // código aqui
+}
+Quais são os parâmetros de uma função em JavaScript
+Os parâmetros são como os ingredientes da receita. Quando você cria uma função, pode dizer que ela precisa de alguns ingredientes (parâmetros). Por exemplo, uma função que soma dois números pode ter dois parâmetros:
+
+javascript
+Copiar código
+function soma(a, b) {
+  return a + b;
+}
+Aqui, a e b são os parâmetros.
+
+Quais são os diferentes tipos de funções e suas funcionalidades em JavaScript
+Existem vários tipos de funções. Tem as funções normais, que já vimos. Tem também as funções anônimas, que não têm nome e são usadas imediatamente. E tem as funções assíncronas, que ajudam a lidar com coisas que demoram, como buscar dados na internet sem travar a página.
+
+Exemplos de código
+Aqui está um exemplo simples de uma função tradicional:
+
+javascript
+Copiar código
+function digaOla(nome) {
+  console.log("Olá, " + nome + "!");
+}
+digaOla("Mundo");
+E aqui um exemplo de função de seta:
+
+javascript
+Copiar código
+const digaOla = (nome) => {
+  console.log("Olá, " + nome + "!");
+}
+digaOla("Mundo");
+Call to action para minhas redes sociais
+Gostou das dicas? Siga-me nas redes sociais para mais truques e dicas de JavaScript e programação! Estamos sempre aprendendo juntos.
+
+Hashtags
+#JavaScript #ProgramaçãoParaTodos #FunçõesJS
+
+de exemplos de quais são as funcoes mais utilizadas em JavaScript
+ChatGPT
+Quais são as funções mais usadas dentro do JavaScript
+Algumas funções são super populares em JavaScript. Aqui estão alguns exemplos:
+
+alert()
+A função alert() mostra uma mensagem na tela em uma janela pop-up. É útil para dar avisos rápidos ao usuário.
+
+javascript
+Copiar código
+alert("Olá, mundo!");
+console.log()
+A função console.log() coloca mensagens no console (a área do desenvolvedor no navegador). É muito usada para debug, ou seja, para ver o que está acontecendo com o seu código.
+
+javascript
+Copiar código
+console.log("Esta é uma mensagem no console.");
+setTimeout()
+A função setTimeout() executa uma função depois de um certo tempo (em milissegundos). É ótima para criar atrasos.
+
+javascript
+Copiar código
+setTimeout(() => {
+  console.log("Isso aparece depois de 2 segundos!");
+}, 2000);
+addEventListener()
+A função addEventListener() adiciona um evento a um elemento da página, como um clique em um botão. É essencial para interatividade.
+
+javascript
+
+document.getElementById("meuBotao").addEventListener("click", () => {
+  alert("Botão clicado!");
+});
+
+
+Math.random()
+A função Math.random() retorna um número aleatório entre 0 (inclusivo) e 1 (exclusivo). É muito usada em jogos e sorteios.
+
+javascript
+
+let numeroAleatorio = Math.random();
+console.log(numeroAleatorio);
+
+Essas funções ajudam a tornar seu código mais interativo e dinâmico, permitindo fazer coisas legais e úteis com JavaScript!
